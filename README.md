@@ -1,6 +1,6 @@
 🚀 **Zend Certified PHP Engineer | Full-Stack & MERN Developer** 🌐
 
-Howdy! 👋 I'm [Your Name], a passionate software engineer with a solid foundation as a Zend Certified PHP Engineer. My journey in the coding realm extends beyond PHP, as I thrive in the dynamic landscapes of full-stack development and the MERN (MongoDB, Express.js, React, Node.js) stack.
+Howdy! 👋 I'm Asif, a passionate software engineer with a solid foundation as a Zend Certified PHP Engineer. My journey in the coding realm extends beyond PHP, as I thrive in the dynamic landscapes of full-stack development and the MERN (MongoDB, Express.js, React, Node.js) stack.
 
 🛠️ **Tech Arsenal:**
 - **Languages:** PHP, JavaScript (Node.js), HTML, CSS
