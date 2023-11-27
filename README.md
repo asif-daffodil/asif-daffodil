@@ -15,11 +15,9 @@ Zend Certified PHP Engineer | Full-Stack & MERN Developer 🌐 | Expert in PHP, 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=asif-daffodil&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=asif-daffodil&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img src='https://randommeme-five.vercel.app/' style="height: 400px; margin: auto"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=asif-daffodil&icon=0&color=0)](https://visitcount.itsvg.in)
