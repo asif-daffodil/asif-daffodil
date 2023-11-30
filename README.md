@@ -22,7 +22,7 @@
 [![](https://visitcount.itsvg.in/api?id=asif-daffodil&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can buy me a coffee!
-  [![BMC](https://img.buymeacoffee.com/api/?name=Asif&size=300&bg-image=bmc)](https://www.buymeacoffee.com/asifabirb) 
+  [![BMC](https://img.buymeacoffee.com/api/?name=Asif&size=60&bg-image=bmc)](https://www.buymeacoffee.com/asifabirb) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
